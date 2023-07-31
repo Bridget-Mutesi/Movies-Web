@@ -32,7 +32,6 @@ const GetMovies = () =>{
             movies.length > 0 &&
             movies.map(item =>(
                 <div className="image-container">
-                    {/* <img src={`${IMAGE_BASE_URL}${item.poster_path}`} alt={item.title}/> */}
                     <ImageContainer props={item}/>
 
                     </div>

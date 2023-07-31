@@ -12,14 +12,14 @@
   
   .logo {
     font-size: 24px;
-    color: #fff;
+    color: black;
   }
   
   
   .links {
     display: flex;
     align-items: center;
-    color: #fff;
+    color: black;
   }
   
   .links li {
@@ -47,6 +47,7 @@
     border: none;
     border-radius: 4px 0 0 4px;
     outline: none;
+    color: white;
   }
   
   .search button {
